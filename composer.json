@@ -1,0 +1,19 @@
+{
+    "name": "maxim/396267-task-force-1",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "force\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MaksBmt",
+            "email": "solov@tdpsm.ru"
+        }
+    ],
+    "require": {
+        "friendsofphp/php-cs-fixer": "^3.4"
+    }
+}
